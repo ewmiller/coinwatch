@@ -1,5 +1,3 @@
 # coinwatch
 
-A command-line cryptocurrency ticker.
-
-Status: initial development.
+A command-line cryptocurrency ticker that tracks the price of Ethereum and Bitcoin on several exchanges.
